@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: PirataOne-Regular;
+    src: url(../css/PirataOne-Regular.ttf);
+}
+
+body {
+    font-family: PirataOne-Regular;
+    text-align: center;
+    background-image: url(../img/fondo.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 120%;
+}
+
+#block {
+    padding: 15%;
+    top: 8%;
+    left: -10%;
+    position:fixed;
+}
+
+#borrarAmigo,
+#borrarLista,
+#inicio {
+    margin: 2%;
+}
+
+footer {
+    height: 8%;
+}
