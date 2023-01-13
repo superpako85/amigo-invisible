@@ -1,2 +1,2 @@
-# amigo-invisible
-programa para sorteo entre amigos
+# amigoinvisible
+Proyecto del amigo invisible
